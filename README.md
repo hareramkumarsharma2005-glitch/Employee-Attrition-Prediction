@@ -74,8 +74,8 @@ This project predicts whether an employee is likely to leave a company using Mac
 
 ## 👨‍💻 Author
 
-**Bhavesh Bhaisare**
+**HARERAM KUMAR**
 
-B.Tech Electronics & Communication Engineering
+B.E IN ELECTRICAL ENGINEERING 
 
-IIITDM Jabalpur
+JADAVPUR UNIVERSITY
